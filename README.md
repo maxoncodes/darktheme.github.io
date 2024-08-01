@@ -12,6 +12,6 @@ Screenshot ==>
 
 
 <a href="https://buymeacoffee.com/maxoncodes">
-    <img src="https://cdn.jsdelivr.net/gh/maxoncodes/darktheme.github.io@main/img/Buy%20me%20a%20coffee.png" alt="Buy a coffee for me" />
+    <img src="https://cdn.jsdelivr.net/gh/maxoncodes/darktheme.github.io@main/img/Buy%20me%20a%20coffee.png" alt="Buy a coffee for me" style="display: block; margin: 0 auto; width: 200px; height: 50px;" />
 </a>
 
